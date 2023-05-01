@@ -1,0 +1,192 @@
+Start testing: Apr 23 18:45 EET
+----------------------------------------------------------
+1/10 Testing: Runs
+1/10 Test: Runs
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "25"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Runs" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Runs" end time: Apr 23 18:45 EET
+"Runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: Usage
+2/10 Test: Usage
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "4"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Usage" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[Hello there]
+"Usage" end time: Apr 23 18:45 EET
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: StandardUse
+3/10 Test: StandardUse
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "4"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"StandardUse" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 2]
+"StandardUse" end time: Apr 23 18:45 EET
+"StandardUse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: Comp4
+4/10 Test: Comp4
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "4"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp4" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 2]
+"Comp4" end time: Apr 23 18:45 EET
+"Comp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: Comp9
+5/10 Test: Comp9
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "9"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp9" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 3]
+"Comp9" end time: Apr 23 18:45 EET
+"Comp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: Comp5
+6/10 Test: Comp5
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "5"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp5" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 2.23607
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 2.236]
+"Comp5" end time: Apr 23 18:45 EET
+"Comp5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: Comp7
+7/10 Test: Comp7
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "7"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp7" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 2.64575
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 2.645]
+"Comp7" end time: Apr 23 18:45 EET
+"Comp7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: Comp25
+8/10 Test: Comp25
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "25"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp25" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 5]
+"Comp25" end time: Apr 23 18:45 EET
+"Comp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: Comp-25
+9/10 Test: Comp-25
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "-25"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp-25" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is (-nan|nan|0)]
+"Comp-25" end time: Apr 23 18:45 EET
+"Comp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: Comp0.0001
+10/10 Test: Comp0.0001
+Command: "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/CMakeTutorial" "0.0001"
+Directory: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+"Comp0.0001" start time: Apr 23 18:45 EET
+Output:
+----------------------------------------------------------
+Hello there
+1 0
+value is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[value is 0.01]
+"Comp0.0001" end time: Apr 23 18:45 EET
+"Comp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 23 18:45 EET

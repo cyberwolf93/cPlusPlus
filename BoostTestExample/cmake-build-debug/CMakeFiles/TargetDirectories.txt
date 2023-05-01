@@ -1,0 +1,6 @@
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/CMakeFiles/BoostTestExample.dir
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/Boost_tests/CMakeFiles/BoostTestExample_test.dir
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/Boost_tests/CMakeFiles/edit_cache.dir
+/Users/amohiy/Projects/cPlusPlus/BoostTestExample/cmake-build-debug/Boost_tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20230423-1645-Experimental"
+	Name="amohiy.local"
+	Generator="ctest-3.26.3"
+	CompilerName="/Applications/Xcode-14.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="amohiy.local"
+	OSRelease="12.6.4"
+	OSVersion="21G526"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="3100"
+	>
+	<Configure>
+		<StartDateTime>Apr 23 18:45 EET</StartDateTime>
+		<StartConfigureTime>1682268344</StartConfigureTime>
+		<ConfigureCommand>"/usr/local/Cellar/cmake/3.26.3/bin/cmake" "/Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial"</ConfigureCommand>
+		<Log>-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Apr 23 18:45 EET</EndDateTime>
+		<EndConfigureTime>1682268344</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

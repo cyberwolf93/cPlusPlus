@@ -1,0 +1,15 @@
+# ninja log v5
+1	1156	1682945442669835226	CMakeFiles/GoogleTestExample.dir/CustomMath.cpp.o	6ed791a848939103
+0	1509	1682945443029446415	CMakeFiles/GoogleTestExample.dir/main.cpp.o	6cc7087ce70c346f
+1509	1607	1682945443127924353	GoogleTestExample	68b3ff99aaddd8a6
+2	3384	1682946025729715440	lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	ee4adb619a9d8b34
+3	3627	1682946025983576885	TestCases/CMakeFiles/GoogleTestExample_test.dir/testFile.cpp.o	be204fbf2a7a5875
+3385	4267	1682946026636872155	TestCases/CMakeFiles/GoogleTestExample_test.dir/__/CustomMath.cpp.o	6001c217d512d2aa
+1	6734	1682946029087293711	lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	86d24dcf3af78c05
+6735	7061	1682946029439509000	lib/libgtestd.a	1654127439736a19
+7061	7113	1682946029491566000	lib/libgtest_maind.a	5f19371fcb882bdd
+7113	7236	1682946029606256183	TestCases/GoogleTestExample_test	99b3bcc959b13b16
+14	2877	1682946129186897777	TestCases/CMakeFiles/GoogleTestExample_test.dir/testFile.cpp.o	be204fbf2a7a5875
+2877	3136	1682946129443032602	TestCases/GoogleTestExample_test	99b3bcc959b13b16
+10	3081	1682946152330074660	TestCases/CMakeFiles/GoogleTestExample_test.dir/testFile.cpp.o	be204fbf2a7a5875
+3082	3254	1682946152504611638	TestCases/GoogleTestExample_test	99b3bcc959b13b16

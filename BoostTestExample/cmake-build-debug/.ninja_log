@@ -1,0 +1,12 @@
+# ninja log v5
+2383	2595	1682937803704365347	BoostTestExample	e0a84f8f33366fb1
+0	2382	1682937803486293503	CMakeFiles/BoostTestExample.dir/main.cpp.o	3d8b769a0da93eae
+0	4015	1682941677120329579	Boost_tests/CMakeFiles/BoostTestExample_test.dir/testMath.cpp.o	8ebb10d8999b7b68
+1	2111	1682937803215888965	CMakeFiles/BoostTestExample.dir/Math.cpp.o	a9fb8ef5d8fc4753
+0	433	1682941734611169639	build.ninja	922b67e1a613ea8b
+12	871	1682941741336471640	Boost_tests/CMakeFiles/BoostTestExample_test.dir/__/CustomMath.cpp.o	902b9ca7dee2c538
+871	1006	1682941741475916486	Boost_tests/BoostTestExample_test	e641fdbb110062c7
+16	3204	1682941866710499641	Boost_tests/CMakeFiles/BoostTestExample_test.dir/testMath.cpp.o	8ebb10d8999b7b68
+3204	3391	1682941866901510934	Boost_tests/BoostTestExample_test	e641fdbb110062c7
+10	970	1682941914192783254	Boost_tests/CMakeFiles/BoostTestExample_test.dir/__/CustomMath.cpp.o	902b9ca7dee2c538
+970	1168	1682941914389367377	Boost_tests/BoostTestExample_test	e641fdbb110062c7

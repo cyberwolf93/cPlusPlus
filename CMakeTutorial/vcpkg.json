@@ -1,0 +1,9 @@
+{
+  "name" : "cmaketutorial",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "2b1757dd1d5ed7d9d5bb65fd8316631b157e7afc",
+  "dependencies" : [ {
+    "name" : "boost-test",
+    "version>=" : "1.82.0#1"
+  } ]
+}

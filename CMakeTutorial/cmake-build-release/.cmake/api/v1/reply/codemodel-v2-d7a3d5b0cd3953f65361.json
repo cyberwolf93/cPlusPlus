@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Release-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakeTutorial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeTutorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeTutorial-Release-8d929411c58103704ac6.json",
+					"name" : "CMakeTutorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeTutorial_boost::@36f028580bb02cc8272a",
+					"jsonFile" : "target-CMakeTutorial_boost-Release-3774fc1102e4826f4c15.json",
+					"name" : "CMakeTutorial_boost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeTutorial_calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeTutorial_calc-Release-3985e14963075c14b1fe.json",
+					"name" : "CMakeTutorial_calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeTutorial_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeTutorial_lib-Release-e915bb8a40395efb3bfa.json",
+					"name" : "CMakeTutorial_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-release",
+		"source" : "/Users/amohiy/Projects/cPlusPlus/CMakeTutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

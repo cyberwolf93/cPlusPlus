@@ -1,0 +1,8 @@
+# ninja log v5
+6	836	1681134934738556384	CMakeFiles/AdvancedTopics.dir/Constraints.cpp.o	4b0b095956b3e53d
+1528	1605	1681152106875131548	AdvancedTopics	a3870e0e0644f155
+0	73	1681134782960424440	CMakeFiles/AdvancedTopics.dir/OptionalClass.cpp.o	258118404dca0a43
+7	1343	1681069543538035966	CMakeFiles/AdvancedTopics.dir/Operators.cpp.o	6378670c81ab91c6
+1	132	1681580959231570491	build.ninja	dd66e37be4ede965
+8	1215	1681080405737345729	CMakeFiles/AdvancedTopics.dir/Lamdas.cpp.o	cc2824da1a9f785d
+5	1528	1681152106793523854	CMakeFiles/AdvancedTopics.dir/Concurrency.cpp.o	ffbdf6e25d10f182

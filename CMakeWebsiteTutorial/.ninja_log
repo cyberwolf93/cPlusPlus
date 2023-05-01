@@ -1,0 +1,7 @@
+# ninja log v5
+0	2739	1682462684940539388	CMakeFiles/CMakeTutorial.dir/main.cpp.o	f7b84bf5d71739
+2	2787	1682462684983930746	MathFunctions/CMakeFiles/MathLib.dir/mysqrt.cpp.o	dbcf52418e10cad8
+2787	2905	1682462685117089000	MathFunctions/libMathLib.a	b411abc41a97f7a1
+2905	3071	1682462685274112163	CMakeTutorial	90b4d0cf49a187ae
+10	2531	1682462892744518817	CMakeFiles/CMakeTutorial.dir/main.cpp.o	f7b84bf5d71739
+2532	2668	1682462892884962078	CMakeTutorial	90b4d0cf49a187ae

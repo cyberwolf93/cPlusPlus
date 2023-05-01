@@ -1,0 +1,8 @@
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/CMakeFiles/CMakeTutorial.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/CMakeFiles/CMakeTutorial_calc.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/CMakeFiles/CMakeTutorial_lib.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/test/CMakeFiles/CMakeTutorial_boost.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/Users/amohiy/Projects/cPlusPlus/CMakeTutorial/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir

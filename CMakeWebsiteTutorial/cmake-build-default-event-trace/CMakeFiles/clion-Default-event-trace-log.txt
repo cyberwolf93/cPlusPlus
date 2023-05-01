@@ -1,0 +1,2 @@
+Cannot generate 'Default-event-trace' into /Users/amohiy/Projects/cPlusPlus/CMakeWebsiteTutorial/cmake-build-default-event-trace
+Only in-source generation will be performed.
